@@ -15,7 +15,7 @@ export default function Home() {
       <small>Java • TypeScript • Spring Boot • PostgreSQL • Next.js</small>
 
       <div className="my-2">
-        <p>Software developer from Örebro, Sweden. I like building cool stuff</p>
+        <p>Software developer from Örebro, Sweden. I like building cool stuff.</p>
         <p>Interest in game modding and cybersecurity.</p>
       </div>
 
