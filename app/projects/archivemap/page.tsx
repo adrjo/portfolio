@@ -15,7 +15,7 @@ export default function ArchiveMap() {
                 <p>The system is split into 3 main components:</p>
                 <ul className="list-disc list-inside">
                     <li>Data Analysis - <i>WorldAnalyzer</i> - A CLI application that analyses Minecraft world data and produces a database of the world.</li>
-                    <li>API - <i>WorldArchive</i> - Spring Boot backend for data management and APIs</li>
+                    <li>API - <i>WorldArchive</i> - Spring Boot backend for data management and APIs.</li>
                     <li>Web Interface - <i>ArchiveMap</i> - A Next.js web application with interactive tile-based map visualization and selective region download functionality.</li>
                 </ul>
                 <Link href="/archivemap/architecture.png">
