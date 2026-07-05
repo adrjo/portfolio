@@ -7,7 +7,7 @@ export default function ArchiveMap() {
             <Link href="/projects">← Back</Link>
             <main className="flex flex-col gap-2 w-full max-w-2xl mx-auto py-10">
                 <h1 className="text-3xl font-semibold text-center">ArchiveMap</h1>
-                <Link target="_blank" href="http://v1ol3t.xyz:3200/map"><b>Demo</b></Link>
+                <Link target="_blank" href="https://archivemap.adrjo.dev/map"><b>Demo</b></Link>
                 <p>ArchiveMap was the final project for my 2 year Higher Vocational Education in Java Development.</p>
                 <p>The system combines visualisation and distribution via data analysis and object storage to produce a web based map interface that allows users to selectively download specific areas of the map.</p>
 
